@@ -7,7 +7,7 @@ There are several methods available in android studio which makes it much more e
       This is used to set drawable position to right or to left.<br><br>
 <b>2. drawablePadding</b>
       This is used to give padding to drwable icon.<br><br>
-<b>3. background<b>
+<b>3. background</b>
           If you want to give custom background to edittext then you can use background, where background is created and stored in drawable.You can change its shape and color.     
 
 
