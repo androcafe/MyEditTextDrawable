@@ -10,6 +10,8 @@ There are several methods available in android studio which makes it much more e
 <b>3. background<b>
           If you want to give custom background to edittext then you can use background, where background is created and stored in drawable.You can change its shape and color.     
 
+
+Output for the following program is mas follows:<br><br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/35371687/47205667-33aeef80-d3a4-11e8-985e-7e0aa80b85e2.png" width="400px"></img> 
 </div>
